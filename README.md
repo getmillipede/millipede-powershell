@@ -4,14 +4,14 @@ Print a beautiful millipede
 
 (See https://github.com/getmillipede and https://github.com/getmillipede/millipede-rfc)
 
-usage: .\millipede.ps1 [-lenght] [-r]
+usage: .\millipede.ps1 [-length] [-r]
 
-  -lenght XX  : where XX 1-99, sets the millipede size
+  -length XX  : where XX 1-99, sets the millipede size
   
   -r $true    : reverse !
 
 # Sample
-    PS C:\Users\gnieark> .\millipede.ps1 -reverse $true -lenght 20
+    PS C:\Users\gnieark> .\millipede.ps1 -reverse $true -length 20
 
        ╔═(███)═╗
       ╔═(███)═╗
